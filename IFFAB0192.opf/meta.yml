@@ -1,0 +1,30 @@
+id: IFFAB0192
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T23:01:51.951347'
+last_modified: '2022-05-30T23:01:51.951352'
+parser: null
+source_metadata:
+  title: Sachen Kunga Nyingpo
+  language: bo
+  description: 'Texts by and about the great Sakya patriarch Kunga Nyingpo (sa chen
+    kun dga'' snying po, 1092–1158):'
+  volume:
+    f5C0E:
+      title: The Instructions on Parting from the Four Attachments
+      base_file: f5C0E.txt
+      order: 1
+      parent: Mind Training
+    f1AFD:
+      title: 'Piercing Devotion: A Lament for Lama Sakyapa'
+      base_file: f1AFD.txt
+      order: 2
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
